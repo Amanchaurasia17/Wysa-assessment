@@ -659,7 +659,7 @@ This project was created as a technical assessment to demonstrate full-stack dev
 ## 🙏 Acknowledgments & References
 
 **Technical Inspiration:**
-- [Wysa](https://www.wysa.io/) - Original concept and design inspiration
+- [Wysa](https://www.wysa.com/) - Original concept and design inspiration
 - [React Documentation](https://reactjs.org/) - Modern React patterns
 - [Express.js Guide](https://expressjs.com/) - Backend architecture
 - [MongoDB University](https://university.mongodb.com/) - Database design patterns
